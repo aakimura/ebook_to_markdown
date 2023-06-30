@@ -1,0 +1,5 @@
+# foders
+env/
+
+# file types
+*.DS_Store
